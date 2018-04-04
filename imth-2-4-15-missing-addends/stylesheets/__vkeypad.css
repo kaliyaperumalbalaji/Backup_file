@@ -1,0 +1,28 @@
+@font-face{font-family:'mclarenregular'; src:url(../fonts/font/mclarenregular-webfont.ttf)}
+.keypadHolder{font-family:'mclarenregular'; z-index:9010; font-weight:bold; background: #ccdc93; z-index: 3000; border-radius:5px; box-shadow: rgba(0, 0, 30, 0.1) 0px 2px 10px 8px;}
+.vkBtnKey{vertical-align:middle; text-align:center; background:#88c34f;  border-radius:5px;  font-size:28px; margin: 4px; line-height: 40px;}
+.vkBtnKey.disabled{background:#486b25; color: #ccc;}
+.vkBtnKey.active>*{opacity: 0.2;}
+.key_multi_0.inactive, .key_multi_1.inactive{opacity: 0.2;}
+.vkBtnEmpty{vertical-align:middle; text-align:center; display:table-cell;}
+.vkBtnCls{text-align:center; font-size: 14px; width: 20px; height: 20px; background:url(../images/close_btn.png) no-repeat; cursor: pointer;}
+#key_close{ float: right; margin-top: -10px; margin-right: -10px; height: 20px; }
+#key_backspace{ float: right; background: none; }
+#key_backspace>*{
+   margin: auto;
+   margin-top: 6px;
+}
+#key_shift>*{
+   margin-top: 5px;
+}
+.vKeyPad_headerKeys{height: 10px;}
+.vKeyPadKeySet > div > div {margin-top: 0px;}
+.key_multi_0, .key_multi_1{font-size: 20px; line-height: 20px;}
+.vkMultiKey{line-height: 20px; font-size: 20px;}
+.numeric.vKeyPad_contentKeys>div:last-of-type{
+   display: inline-block;
+   float: left;
+}
+.numeric .vKeyPad_footerKeys{
+   float: right;
+}
