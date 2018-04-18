@@ -1,0 +1,67 @@
+Plugin link
+___________
+https://scotch.io/tutorials/building-your-own-javascript-modal-plugin
+
+
+
+Website Template link
+______________
+https://www.quackit.com/html/templates/simple_website_templates.cfm
+https://w3layouts.com/preview/?l=/wooden-work-industrial-category-bootstrap-responsive-web-template/
+http://demo.themefisher.com/demos/?theme=brandi
+https://webthemez.com/preview/?focus-best-photography-website-template-free/#
+https://webthemez.com/demo/acura-business-bootstrap-website-template/index.html
+http://envato.tabvn.com/demo.php?theme=cooker
+http://www.themepush.com/demo/leroy/index.html
+http://wowslider.com/demos.html
+http://wowslider.com/free-image-slider-dark-matter-squares-demo.html
+http://wowslider.com/full-width-slider-cursive-collage-demo.html
+https://www.quackit.com/html/html_editors/scratchpad/?example=/html/templates/grid/css_grid_layout_template_1
+https://docs.webix.com/samples/01_layout/index.html
+https://www.jqueryscript.net/demo/Tiny-Responsive-jQuery-Lightbox-Plugin-Rebox/
+https://www.jqueryscript.net/demo/Responsive-Photo-Gallery-with-jQuery-and-Bootstrap-3/
+https://www.jqueryscript.net/demo/Tiny-Responsive-Lightbox-Gallery-Plugin-For-jQuery-Viewbox/
+https://tympanus.net/Tutorials/3DHoverEffects/
+https://tympanus.net/Development/Stapel/a
+http://www.bestjquery.com/?sRpFofd1
+http://www.bestjquery.com/lab/accordion/
+http://www.htmldrive.net/edit_media/2010/201009/20100902/image-hover/index.html
+http://www.htmldrive.net/items/show/1846/animateClick-with-jQuery
+http://www.htmldrive.net/
+
+
+Accordion link
+______________
+https://tympanus.net/codrops/2012/07/20/3d-flipping-circle-with-css3-and-jquery/
+https://www.jqueryscript.net/menu/3D-Cube-Navigation-jQuery-CSS3.html
+https://www.jqueryscript.net/menu/Cool-3D-Drop-Down-Menu-Plugin-5.html
+
+
+css link
+_________
+https://css-tricks.com/almanac/
+
+
+
+Flip book
+_________
+https://www.flipbuilder.com/
+https://flippingbook.com/presentation-examples
+http://dailydesignnotes.com/flipping-effect-jquery-plugins/
+https://myelearningworld.com/top-10-flipbook-software-programs-for-creating-interactive-books/
+http://www.flipbuilder.com/show.html
+
+
+Responsive link
+_______________
+https://codepen.io/chriscoyier/pen/VvRoWy
+
+
+Audio Link
+_____
+https://stackoverflow.com/questions/35259242/css-style-audio
+
+
+Game
+____
+http://htmlpreview.github.io/?https://github.com/anishsana/fruitsGame/blob/gh-pages/index.html
