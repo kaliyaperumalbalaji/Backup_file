@@ -1,0 +1,32 @@
+SPI
+___
+
+HTML5 and CSS3
+______________
+
+
+1. Animate in css3.
+2. HTML5 meta-data.
+3. How to not install in font your system. Apply in font.
+4. Box model
+5. Difference bitween section storage and local storage.
+6. Canvas and SVG difference.
+7. How to create in canvas line.
+8. gradient propertie css3.
+9. 
+
+
+
+Javascript and Jquery
+____________________
+
+1. Null and undefined difference.
+2. Who to get class name for javascript.
+3. Nagative infinity for javascript.
+4. Who to use preventDefalt in javascript.
+5. Who to use get() and post() for jquery.
+6. Data types.
+7. Callback function in jquery.
+8. How to use fade for jquery.
+9. Travesing jquery.
+10. each() function in javascript.
