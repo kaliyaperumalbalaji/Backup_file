@@ -1,0 +1,77 @@
+#left{
+    position: absolute;
+    width: 20%;
+    height: 250px;
+    border: 2px solid #221044;
+    top: 110px;
+    left: 200px;
+	background-color:lightblue;
+}
+
+#Right{
+    position: absolute;
+    width: 20%;
+    height: 250px;
+    border: 2px solid #221044;
+    top: 110px;
+    left: 550px;
+	background-color:pink;
+}
+.round{
+	width: 20px;
+    height: 20px;
+    border-radius: 20px;
+    border: 1px solid #000;
+    position: relative;
+    margin-top: 29px;
+    margin-left: 13px;
+    z-index: 1;
+    top: 16px;
+    background-color: pink;
+}
+.rightRound{
+	width: 20px;
+    height: 20px;
+    border-radius: 20px;
+    border: 1px solid #000;
+    position: relative;
+    margin-top: 29px;
+    margin-left: 11px;
+    z-index: 1;
+    top: 16px;
+    background-color: lightblue;
+}
+.leftDiv{
+	width: 40px;
+    height: auto;
+    /* border: 1px solid red; */
+    margin-left: 380px;
+    margin-top: 110px;
+    position: relative;
+}
+.rightDiv{
+	width: 40px;
+    height: auto;
+    /* border: 1px solid red; */
+    margin-left: 530px;
+    margin-top: -246px;
+    position: relative;
+}
+svg {
+    border: 1px solid grey;
+}
+
+line {
+    stroke:rgb(0,0,0);
+    stroke-width:2;
+}
+#map{
+	position:absolute;
+	top:110px;
+	left:401px;
+	
+}
+.close{
+	width:20px;
+	height:40px;
+}
