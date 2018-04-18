@@ -1,0 +1,15 @@
+#cham{
+	position: absolute;
+    bottom: 0px;
+    right: 80px;
+    /* border: 1px solid red; */
+    width: 170px;
+    height: 220px;
+	background-image:url('../images/unit_7/cham.png');
+	animation: clam 2s steps(7) 1;
+}
+@keyframes clam {
+    100% {
+		background-position: -1190px;
+	}
+}
