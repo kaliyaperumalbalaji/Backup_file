@@ -65,3 +65,8 @@ https://stackoverflow.com/questions/35259242/css-style-audio
 Game
 ____
 http://htmlpreview.github.io/?https://github.com/anishsana/fruitsGame/blob/gh-pages/index.html
+
+
+Wedding Link
+____________
+http://ingridkuhn.com/themes/liebe_html/#prettyPhoto
