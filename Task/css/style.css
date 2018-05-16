@@ -1,0 +1,68 @@
+.container{
+	position: absolute;
+    width: 65%;
+    background-color:#fff;
+    left: 0px;
+    right: 0px;
+    top: 0px;
+    bottom: 0px;
+    margin: auto;
+}
+.box-div{
+	width: 100%;
+	height: 50%;
+	
+}
+.box1{
+	width: 10%;
+    height: 20%;
+    border: 2px solid red;
+    margin: 10px;
+	
+}
+.box2{
+	width: 10%;
+    height: 20%;
+    border: 2px solid red;
+    margin: 10px;
+	
+}
+.box3{
+	width: 10%;
+    height: 20%;
+    border: 2px solid red;
+    margin: 10px;
+	
+}
+.box4{
+	width: 10%;
+    height: 20%;
+    border: 2px solid red;
+    margin: 10px;
+	
+}
+.box-img{
+	position: absolute;
+	width: 35%;
+    height: 45%;
+    border: 2px solid red;
+    margin-left: 130px
+}
+.content-div{
+	width: 50%;
+    height: 100%;
+    
+    float: right;
+}
+.text-div{
+	width: 100%;
+	height: 20%;
+	margin-top: 20px;
+	background-color: #ffffe5;
+}
+.textarea-div{
+	width: 100%;
+	height: 20%;
+	margin-top: 20px;
+	border: 2px solid red;
+}
