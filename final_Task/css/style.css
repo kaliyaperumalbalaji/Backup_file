@@ -1,0 +1,84 @@
+.container{
+	position: absolute;
+    width: 65%;
+    background-color:#fff;
+    left: 0px;
+    right: 0px;
+    top: 0px;
+    bottom: 0px;
+    margin: auto;
+}
+.box-div{
+	width: 100%;
+	height: 50%;
+	
+}
+.box1{
+	width: 10%;
+    height: 20%;
+    border: 2px solid #000;
+    margin: 10px;
+	
+}
+.box2{
+	width: 10%;
+    height: 20%;
+    border: 2px solid #000;
+    margin: 10px;
+	
+}
+.box3{
+	width: 10%;
+    height: 20%;
+    border: 2px solid #000;
+    margin: 10px;
+	
+}
+.box4{
+	width: 10%;
+    height: 20%;
+    border: 2px solid #000;
+    margin: 10px;
+	
+}
+.box-img{
+	position: absolute;
+	width: 35%;
+    height: 46%;
+    border: 2px solid #000;
+    margin-left: 130px;
+background-image:url('../images/img1.jpg');
+background-size: 100% 100%;
+background-repeat: no-repeat;
+
+}
+.content-div{
+	width: 50%;
+    height: 100%;
+    
+    float: right;
+margin-top: -18px;
+}
+.text-div{
+	width: 100%;
+	height: 20%;
+
+	background-color: #ffffe5;
+}
+.textarea-div{
+	width: 100%;
+	height: 20%;
+	margin-top: 20px;
+	border: 2px solid red;
+}
+.main{
+    top: 31px;
+    position: relative;
+}
+[contenteditable]:focus {
+    outline: 0px solid transparent;
+}
+
+.border-color{
+	border: 4px solid #dea31d;
+}
